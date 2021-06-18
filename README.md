@@ -70,6 +70,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [sillybun/vim-repl](https://github.com/sillybun/vim-repl) - Best REPL environment for Vim
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
