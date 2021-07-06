@@ -117,6 +117,7 @@
 
 ## Vim script 
 
+- [tpope/vim-git](https://github.com/tpope/vim-git) - Vim Git runtime files
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
 - [kana/vim-submode](https://github.com/kana/vim-submode) - Vim plugin: Create your own submodes
 - [kassio/neoterm](https://github.com/kassio/neoterm) - Wrapper of some vim/neovim's :terminal functions.
