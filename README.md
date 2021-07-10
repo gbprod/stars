@@ -40,6 +40,7 @@
 
 ## JavaScript 
 
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [gbprod/icantdecide](https://github.com/gbprod/icantdecide) - 
 - [brunobord/vousetesleheros-parisweb2012](https://github.com/brunobord/vousetesleheros-parisweb2012) - 
@@ -104,6 +105,10 @@
 
 ## TypeScript 
 
+- [fannheyward/coc-react-refactor](https://github.com/fannheyward/coc-react-refactor) - React refactor extension for coc.nvim
+- [iamcco/diagnostic-languageserver](https://github.com/iamcco/diagnostic-languageserver) - diagnostic language server integrate with linters
+- [neoclide/coc-pairs](https://github.com/neoclide/coc-pairs) - Basic auto pairs extension of coc.nvim
+- [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [iamcco/coc-spell-checker](https://github.com/iamcco/coc-spell-checker) - A basic spell checker that works well with camelCase code for (Neo)vim
 - [chemzqm/coc-bookmark](https://github.com/chemzqm/coc-bookmark) - 
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
