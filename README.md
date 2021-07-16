@@ -10,6 +10,7 @@
   - [CSS](#css)
   - [HTML](#html)
   - [JavaScript](#javascript)
+  - [Lua](#lua)
   - [PHP](#php)
   - [Python](#python)
   - [Rust](#rust)
@@ -44,6 +45,10 @@
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [gbprod/icantdecide](https://github.com/gbprod/icantdecide) - 
 - [brunobord/vousetesleheros-parisweb2012](https://github.com/brunobord/vousetesleheros-parisweb2012) - 
+
+## Lua 
+
+- [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 
 ## PHP 
 
