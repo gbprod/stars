@@ -48,6 +48,10 @@
 
 ## Lua 
 
+- [svermeulen/vimpeccable](https://github.com/svermeulen/vimpeccable) - Neovim plugin that allows you to easily map keys directly to lua code inside your init.lua
+- [hoob3rt/lualine.nvim](https://github.com/hoob3rt/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette, written in lua with tree sitter support
+- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
 
 ## PHP 
