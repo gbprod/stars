@@ -44,7 +44,6 @@
 
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [gbprod/icantdecide](https://github.com/gbprod/icantdecide) - 
 - [brunobord/vousetesleheros-parisweb2012](https://github.com/brunobord/vousetesleheros-parisweb2012) - 
 
 ## Lua 
@@ -64,26 +63,17 @@
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
-- [container-interop/service-provider](https://github.com/container-interop/service-provider) - [EXPERIMENTAL] Promoting container interoperability through standard service providers
 - [php-amqplib/php-amqplib](https://github.com/php-amqplib/php-amqplib) - The most widely used PHP client for RabbitMQ
 - [gbprod/montmartre](https://github.com/gbprod/montmartre) - 
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
 - [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
 - [gbprod/elastica-specification](https://github.com/gbprod/elastica-specification) - This library allows to write Elastica queries using the Specification pattern
-- [gbprod/elastica-specification-bundle](https://github.com/gbprod/elastica-specification-bundle) - This bundle integrates elastica-specification with Symfony
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
 - [ramsey/uuid](https://github.com/ramsey/uuid) - A PHP library for generating universally unique identifiers (UUIDs).
-- [gbprod/elastica-extra-bundle](https://github.com/gbprod/elastica-extra-bundle) - Extra tools for index management with Elastica client
 - [gbprod/elastica-provider-bundle](https://github.com/gbprod/elastica-provider-bundle) - Bundle that can easely provide data in ElasticSearch using Elastica
 - [gbprod/elastica-bundle](https://github.com/gbprod/elastica-bundle) - Really simple bundle to use Elastica within Symfony applications
-- [gbprod/elasticsearch-dataprovider-bundle](https://github.com/gbprod/elasticsearch-dataprovider-bundle) - [deprecated] Bundle that allow easy data providing elasticsearch indices in Symfony
-- [gbprod/elasticsearch-extra-bundle](https://github.com/gbprod/elasticsearch-extra-bundle) - [deprecated] Extra tools for m6web/elasticsearch-bundle
 - [gbprod/uuid-normalizer](https://github.com/gbprod/uuid-normalizer) - Normalizer to serialize Ramsey Uuid with Symfony Serializer
 - [gbprod/domain-event-bundle](https://github.com/gbprod/domain-event-bundle) - Integrates domain event library to a Symfony app
-- [gbprod/specification](https://github.com/gbprod/specification) - Yet another specification pattern implementation in PHP
-- [gbprod/domain-event](https://github.com/gbprod/domain-event) - Library to manage domain events in a DDD application
-- [gbprod/doctrine-specification](https://github.com/gbprod/doctrine-specification) - This library allow you to write Doctrine ORM queries using the Specification pattern
-- [gbprod/doctrine-specification-bundle](https://github.com/gbprod/doctrine-specification-bundle) - This bundle provides integration with doctrine-specification with Symfony
 
 ## Python 
 
