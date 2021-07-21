@@ -67,13 +67,9 @@
 - [gbprod/montmartre](https://github.com/gbprod/montmartre) - 
 - [phpactor/phpactor](https://github.com/phpactor/phpactor) - PHP completion, refactoring, introspection tool and language server.
 - [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
-- [gbprod/elastica-specification](https://github.com/gbprod/elastica-specification) - This library allows to write Elastica queries using the Specification pattern
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
 - [ramsey/uuid](https://github.com/ramsey/uuid) - A PHP library for generating universally unique identifiers (UUIDs).
-- [gbprod/elastica-provider-bundle](https://github.com/gbprod/elastica-provider-bundle) - Bundle that can easely provide data in ElasticSearch using Elastica
-- [gbprod/elastica-bundle](https://github.com/gbprod/elastica-bundle) - Really simple bundle to use Elastica within Symfony applications
 - [gbprod/uuid-normalizer](https://github.com/gbprod/uuid-normalizer) - Normalizer to serialize Ramsey Uuid with Symfony Serializer
-- [gbprod/domain-event-bundle](https://github.com/gbprod/domain-event-bundle) - Integrates domain event library to a Symfony app
 
 ## Python 
 
@@ -114,7 +110,6 @@
 - [neoclide/coc-pairs](https://github.com/neoclide/coc-pairs) - Basic auto pairs extension of coc.nvim
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [iamcco/coc-spell-checker](https://github.com/iamcco/coc-spell-checker) - A basic spell checker that works well with camelCase code for (Neo)vim
-- [chemzqm/coc-bookmark](https://github.com/chemzqm/coc-bookmark) - 
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
 - [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
 - [josa42/coc-sh](https://github.com/josa42/coc-sh) - SH language server extension using bash-language-server for coc.nvim.
