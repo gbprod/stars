@@ -117,6 +117,7 @@
 - [neoclide/coc-git](https://github.com/neoclide/coc-git) - Git integration of coc.nvim
 - [neoclide/coc-yank](https://github.com/neoclide/coc-yank) - Yank highlight and persist yank history support for vim
 - [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - Common lists for coc.nvim
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [phpactor/coc-phpactor](https://github.com/phpactor/coc-phpactor) - Phpactor CoC Extension
 - [iamcco/coc-diagnostic](https://github.com/iamcco/coc-diagnostic) - diagnostic-languageserver extension for coc.nvim
 
@@ -181,7 +182,6 @@
 - [sillybun/vim-repl](https://github.com/sillybun/vim-repl) - Best REPL environment for Vim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - :sparkles: A (Neo)vim plugin for formatting code.
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## VimL 
