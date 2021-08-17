@@ -16,6 +16,7 @@
   - [Python](#python)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim Snippet](#vim-snippet)
@@ -48,6 +49,9 @@
 
 ## Lua 
 
+- [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) - Neovim commenting plugin, written in lua.
+- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written by lua
+- [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [akinsho/nvim-bufferline.lua](https://github.com/akinsho/nvim-bufferline.lua) - A snazzy bufferline for Neovim
 - [famiu/bufdelete.nvim](https://github.com/famiu/bufdelete.nvim) - Delete Neovim buffers without losing window layout
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
@@ -94,6 +98,12 @@
 ## SCSS 
 
 - [gbprod/sass-trigonometry](https://github.com/gbprod/sass-trigonometry) - Sass trigonometry and inverse trigonometry functions
+
+## Scheme 
+
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
+- [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
 
 ## Shell 
 
