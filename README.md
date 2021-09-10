@@ -167,6 +167,7 @@
 
 ## VimL 
 
+- [glts/vim-textobj-comment](https://github.com/glts/vim-textobj-comment) - Vim text objects for comments
 - [kana/vim-textobj-line](https://github.com/kana/vim-textobj-line) - Vim plugin: Text objects for the current line
 - [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent) - Vim plugin: Text objects for indented blocks of lines
 - [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
