@@ -37,6 +37,7 @@
 
 ## HTML 
 
+- [gbprod/gbprod.github.io](https://github.com/gbprod/gbprod.github.io) - http://gb-prod.fr
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [sebastianbergmann/phpunit-documentation](https://github.com/sebastianbergmann/phpunit-documentation) - Documentation for PHPUnit.
 
@@ -48,6 +49,7 @@
 
 ## Lua 
 
+- [gbprod/gbvim](https://github.com/gbprod/gbvim) - my neovim setup
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) - 🌈  Plugin that creates missing LSP diagnostics highlight groups for color schemes that don't yet support the Neovim 0.5 builtin LSP client.
@@ -123,6 +125,7 @@
 
 ## Shell 
 
+- [gbprod/dotfiles](https://github.com/gbprod/dotfiles) - 
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
