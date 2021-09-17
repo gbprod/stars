@@ -49,6 +49,7 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [gbprod/gbvim](https://github.com/gbprod/gbvim) - my neovim setup
 - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - nvim-cmp source for buffer words
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -110,6 +111,7 @@
 
 ## Rust 
 
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
 - [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 
