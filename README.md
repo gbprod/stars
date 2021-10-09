@@ -49,6 +49,7 @@
 
 ## Lua 
 
+- [gbprod/open-related.nvim](https://github.com/gbprod/open-related.nvim) - Draft - Quickly open related files in neovim
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) - plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.
 - [m00qek/plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim) - A template to create Neovim plugins written in Lua
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
