@@ -117,7 +117,7 @@
 ## Rust 
 
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
 
 ## SCSS 
