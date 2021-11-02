@@ -121,7 +121,7 @@
 ## Rust 
 
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) - An opinionated Lua code formatter
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Himalaya is a suite of independent Personal Information Management command-line tools.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 
 ## SCSS 
