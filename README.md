@@ -51,6 +51,7 @@
 
 ## Lua 
 
+- [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) - Neovim motions on speed!
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) - Find the enemy and replace them with dark power.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
@@ -157,6 +158,7 @@
 
 ## Vim script 
 
+- [FooSoft/vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
 - [moll/vim-bbye](https://github.com/moll/vim-bbye) - Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 - [kana/vim-textobj-line](https://github.com/kana/vim-textobj-line) - Vim plugin: Text objects for the current line
@@ -178,7 +180,6 @@
 - [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 - [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word
-- [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [nelsyeung/twig.vim](https://github.com/nelsyeung/twig.vim) - Twig syntax highlighting, indentation, neocomplete and UltiSnips snippets in Vim
 - [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
 - [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
