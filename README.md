@@ -24,12 +24,16 @@
 
 ## C 
 
+- [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - :envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager
 
 ## C++ 
 
+- [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 
 ## CSS 
@@ -95,7 +99,6 @@
 
 ## Others 
 
-- [mediapart/data-stack](https://github.com/mediapart/data-stack) - Infra As Code
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [nvim-lua/wishlist](https://github.com/nvim-lua/wishlist) - A public catalogue of Lua plugins Neovim users would like to see exist
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
@@ -163,7 +166,6 @@
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
-- [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [rhysd/reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire) - Vim plugin: Text objects for entire buffer
