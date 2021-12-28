@@ -19,6 +19,7 @@
   - [SCSS](#scss)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [VimL](#viml)
 
@@ -156,6 +157,10 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [rjekker/i3-battery-popup](https://github.com/rjekker/i3-battery-popup) - A script that shows warning messages to the user when the battery is almost empty. For i3wm users.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+
+## TypeScript 
+
+- [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 
 ## Vim script 
 
