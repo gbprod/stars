@@ -63,6 +63,7 @@
 
 ## Lua 
 
+- [numToStr/FTerm.nvim](https://github.com/numToStr/FTerm.nvim) - :fire: No-nonsense floating terminal plugin for neovim :fire:
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [nanotee/sqls.nvim](https://github.com/nanotee/sqls.nvim) - Neovim plugin for sqls that leverages the built-in LSP client
