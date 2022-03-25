@@ -167,6 +167,7 @@
 
 ## Shell 
 
+- [jasonmccreary/git-trim](https://github.com/jasonmccreary/git-trim) - 
 - [gbprod/dotfiles](https://github.com/gbprod/dotfiles) - 
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
