@@ -8,6 +8,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [JavaScript](#javascript)
@@ -43,6 +44,10 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
 
+## Go 
+
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
+
 ## HTML 
 
 - [gbprod/gbprod.github.io](https://github.com/gbprod/gbprod.github.io) - http://gb-prod.fr
@@ -55,7 +60,6 @@
 
 ## JavaScript 
 
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [tree-sitter/tree-sitter-php](https://github.com/tree-sitter/tree-sitter-php) - PHP grammar for tree-sitter
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [brunobord/vousetesleheros-parisweb2012](https://github.com/brunobord/vousetesleheros-parisweb2012) - 
