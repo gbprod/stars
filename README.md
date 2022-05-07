@@ -23,7 +23,6 @@
   - [Shell](#shell)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
-  - [VimL](#viml)
 
 ## C 
 
@@ -173,14 +172,13 @@
 ## Shell 
 
 - [jasonmccreary/git-trim](https://github.com/jasonmccreary/git-trim) - 
-- [gbprod/dotfiles](https://github.com/gbprod/dotfiles) - 
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [loliee/dotfiles](https://github.com/loliee/dotfiles) - ~/.dotfiles
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [rjekker/i3-battery-popup](https://github.com/rjekker/i3-battery-popup) - A script that shows warning messages to the user when the battery is almost empty. For i3wm users.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 ## TypeScript 
 
@@ -194,6 +192,7 @@
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [FooSoft/vim-argwrap](https://github.com/FooSoft/vim-argwrap) - Wrap and unwrap function arguments, lists, and dictionaries in Vim
+- [glts/vim-textobj-comment](https://github.com/glts/vim-textobj-comment) - Vim text objects for comments
 - [kana/vim-textobj-line](https://github.com/kana/vim-textobj-line) - Vim plugin: Text objects for the current line
 - [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
 - [gquemener/dotfiles](https://github.com/gquemener/dotfiles) - Just my config
@@ -203,7 +202,9 @@
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [rhysd/reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire) - Vim plugin: Text objects for entire buffer
+- [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent) - Vim plugin: Text objects for indented blocks of lines
 - [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user) - Vim plugin: Create your own text objects
+- [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
 - [christoomey/vim-sort-motion](https://github.com/christoomey/vim-sort-motion) - Vim mapping for sorting a range of text
 - [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 - [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
@@ -215,12 +216,6 @@
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [tpope/vim-git](https://github.com/tpope/vim-git) - Vim Git runtime files
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-## VimL 
-
-- [glts/vim-textobj-comment](https://github.com/glts/vim-textobj-comment) - Vim text objects for comments
-- [kana/vim-textobj-indent](https://github.com/kana/vim-textobj-indent) - Vim plugin: Text objects for indented blocks of lines
-- [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
 
 
 ## License
