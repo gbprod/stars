@@ -45,6 +45,7 @@
 
 ## Go 
 
+- [patrickvane/shfmt](https://github.com/patrickvane/shfmt) - A shell formatter (sh/bash/mksh)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 
 ## HTML 
