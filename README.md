@@ -48,7 +48,7 @@
 
 ## Fennel 
 
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that lets you look before you leap
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - 🦘 A motion plugin that keeps you in the zone
 
 ## Go 
 
@@ -75,7 +75,7 @@
 
 ## Lua 
 
-- [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) - Lua version of phpactor nvim plugin.
+- [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) - Lua version of the Phpactor vim plugin to take advantage of the latest Neovim features
 - [hrsh7th/nvim-pasta](https://github.com/hrsh7th/nvim-pasta) - The yank/paste enhancement plugin for neovim.
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) - Manage temporary buffers
 - [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) - Improve startup time for Neovim
