@@ -27,6 +27,7 @@
 
 ## C 
 
+- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - WIP
 - [nvim-treesitter/tree-sitter-query](https://github.com/nvim-treesitter/tree-sitter-query) - A Tree-sitter parser for tree-sitter queries.
 - [alemuller/tree-sitter-make](https://github.com/alemuller/tree-sitter-make) - 
 - [DerekStride/tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter
@@ -146,6 +147,7 @@
 
 ## Others 
 
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [nvim-lua/wishlist](https://github.com/nvim-lua/wishlist) - A public catalogue of Lua plugins Neovim users would like to see exist
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
@@ -203,6 +205,7 @@
 
 ## Shell 
 
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [jasonmccreary/git-trim](https://github.com/jasonmccreary/git-trim) - 
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
