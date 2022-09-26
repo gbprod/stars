@@ -27,7 +27,7 @@
 
 ## C 
 
-- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - WIP
+- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [nvim-treesitter/tree-sitter-query](https://github.com/nvim-treesitter/tree-sitter-query) - A Tree-sitter parser for tree-sitter queries.
 - [alemuller/tree-sitter-make](https://github.com/alemuller/tree-sitter-make) - 
 - [DerekStride/tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter
@@ -205,6 +205,9 @@
 
 ## Shell 
 
+- [php-actions/phpunit](https://github.com/php-actions/phpunit) - Run your PHPUnit tests in your Github Actions.
+- [php-actions/composer](https://github.com/php-actions/composer) - Use the Composer CLI in your Github Actions.
+- [php-actions/phpstan](https://github.com/php-actions/phpstan) - PHP Static Analysis in Github Actions.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [jasonmccreary/git-trim](https://github.com/jasonmccreary/git-trim) - 
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
