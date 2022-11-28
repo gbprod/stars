@@ -86,6 +86,7 @@
 
 ## Lua 
 
+- [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) - 👻 Actions at a distance
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) - Hlsearch Lens for Neovim
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
