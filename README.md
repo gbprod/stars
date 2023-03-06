@@ -50,7 +50,6 @@
 
 ## CSS 
 
-- [nmartin84/logseq-flow](https://github.com/nmartin84/logseq-flow) - Flow Theme - A minimal theme focused on simplicity and aesthetics
 - [gbprod/vimium-nord-theme](https://github.com/gbprod/vimium-nord-theme) - Nord theme for vimium
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -106,7 +105,7 @@
 - [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
-- [kiyoon/treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent object powered by Treesitter. `vai` to select current context.
+- [kiyoon/treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Treesitter. `vai` to select current context.
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme.
 - [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) - 👻 Actions at a distance
