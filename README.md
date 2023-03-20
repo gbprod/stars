@@ -90,11 +90,14 @@
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [tree-sitter/tree-sitter-php](https://github.com/tree-sitter/tree-sitter-php) - PHP grammar for tree-sitter
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [brunobord/vousetesleheros-parisweb2012](https://github.com/brunobord/vousetesleheros-parisweb2012) - 
 
 ## Lua 
 
+- [hkupty/iron.nvim](https://github.com/hkupty/iron.nvim) - Interactive Repl Over Neovim
+- [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
+- [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) - nvim-snippy completion source for nvim-cmp.
@@ -160,7 +163,6 @@
 - [hrsh7th/cmp-nvim-lua](https://github.com/hrsh7th/cmp-nvim-lua) - nvim-cmp source for nvim lua
 - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - nvim-cmp source for path
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
-- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey is a lua plugin for Neovim 0.5 that displays a popup with possible keybindings of the command you started typing.
 - [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - vscode-like pictograms for neovim lsp completion items
@@ -201,7 +203,7 @@
 - [phpspec/prophecy](https://github.com/phpspec/prophecy) - Highly opinionated mocking framework for PHP 5.3+
 - [sebastianbergmann/phpunit-documentation-english](https://github.com/sebastianbergmann/phpunit-documentation-english) - English Documentation for PHPUnit
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model
-- [ramsey/uuid](https://github.com/ramsey/uuid) - A PHP library for generating universally unique identifiers (UUIDs).
+- [ramsey/uuid](https://github.com/ramsey/uuid) - :snowflake: A PHP library for generating universally unique identifiers (UUIDs).
 - [gbprod/uuid-normalizer](https://github.com/gbprod/uuid-normalizer) - Normalizer to serialize Ramsey Uuid with Symfony Serializer
 
 ## Python 
@@ -273,7 +275,6 @@
 - [gquemener/dotfiles](https://github.com/gquemener/dotfiles) - Just my config
 - [tpope/vim-sleuth](https://github.com/tpope/vim-sleuth) - sleuth.vim: Heuristically set buffer options
 - [tpope/vim-eunuch](https://github.com/tpope/vim-eunuch) - eunuch.vim: Helpers for UNIX
-- [rhysd/reply.vim](https://github.com/rhysd/reply.vim) - REPLs play nicely with :terminal on Vim and Neovim
 - [kana/vim-textobj-entire](https://github.com/kana/vim-textobj-entire) - Vim plugin: Text objects for entire buffer
 - [kana/vim-textobj-user](https://github.com/kana/vim-textobj-user) - Vim plugin: Create your own text objects
 - [terryma/vim-expand-region](https://github.com/terryma/vim-expand-region) - Vim plugin that allows you to visually select increasingly larger regions of text using the same key combination.
