@@ -15,6 +15,7 @@
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -176,6 +177,10 @@
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - lua `fork` of vim-web-devicons for neovim
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
+
+## Makefile 
+
+- [cytopia/docker-php-cs-fixer](https://github.com/cytopia/docker-php-cs-fixer) - Alpine-based multistage-build version of php-cs-fixer for reproducible usage in CI
 
 ## Others 
 
