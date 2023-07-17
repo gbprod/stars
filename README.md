@@ -213,6 +213,7 @@
 
 ## Python 
 
+- [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
