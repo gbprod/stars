@@ -96,11 +96,12 @@
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [tree-sitter/tree-sitter-php](https://github.com/tree-sitter/tree-sitter-php) - PHP grammar for tree-sitter
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [brunobord/vousetesleheros-parisweb2012](https://github.com/brunobord/vousetesleheros-parisweb2012) - 
 
 ## Lua 
 
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of two dozen new text objects for Neovim.
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) - A native neovim extension for Codeium
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) - null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
