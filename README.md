@@ -101,6 +101,7 @@
 
 ## Lua 
 
+- [chrisgrieser/cmp_yanky](https://github.com/chrisgrieser/cmp_yanky) - cmp-source for clipboard history from yanky.nvim
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) - Bundle of two dozen new text objects for Neovim.
