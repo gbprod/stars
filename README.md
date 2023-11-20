@@ -15,6 +15,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Others](#others)
@@ -99,8 +100,13 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [brunobord/vousetesleheros-parisweb2012](https://github.com/brunobord/vousetesleheros-parisweb2012) - 
 
+## Kotlin 
+
+- [benjamin-klamerek/fantasy-realm-scoring](https://github.com/benjamin-klamerek/fantasy-realm-scoring) - Android scoring app for the game FantasyRealms
+
 ## Lua 
 
+- [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - Extensible UI for Neovim notifications and LSP progress messages.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) - Lua plugin to turn github copilot into a cmp source
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
