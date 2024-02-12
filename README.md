@@ -36,7 +36,7 @@
 - [claytonrcarter/tree-sitter-phpdoc](https://github.com/claytonrcarter/tree-sitter-phpdoc) - PHPDoc grammar for tree-sitter
 - [MDeiml/tree-sitter-markdown](https://github.com/MDeiml/tree-sitter-markdown) - A markdown grammar for tree-sitter
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
-- [nvim-treesitter/tree-sitter-query](https://github.com/nvim-treesitter/tree-sitter-query) - A Tree-sitter parser for tree-sitter queries.
+- [tree-sitter-grammars/tree-sitter-query](https://github.com/tree-sitter-grammars/tree-sitter-query) - A Tree-sitter parser for tree-sitter queries.
 - [alemuller/tree-sitter-make](https://github.com/alemuller/tree-sitter-make) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
@@ -104,6 +104,7 @@
 
 ## Lua 
 
+- [gbprod/none-ls-ecs.nvim](https://github.com/gbprod/none-ls-ecs.nvim) - Easy Coding Standard PHP formatter plugin for none-ls.nvim
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
 - [gbprod/none-ls-psalm.nvim](https://github.com/gbprod/none-ls-psalm.nvim) - Psalm diagnostics plugin for none-ls.nvim
 - [gbprod/none-ls-shellcheck.nvim](https://github.com/gbprod/none-ls-shellcheck.nvim) - Shellcheck diagnostics and code-actions plugin for none-ls.nvim
@@ -272,6 +273,7 @@
 
 ## Shell 
 
+- [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [ivakyb/fish_ssh_agent](https://github.com/ivakyb/fish_ssh_agent) - Fish-function `fish_ssh_agent` to start `ssh-agent` and export its environment variables to all fish instances: currently running and newly created.
 - [jhillyerd/plugin-git](https://github.com/jhillyerd/plugin-git) - Git plugin for the Fish shell (similar to oh-my-zsh git)
 - [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure
