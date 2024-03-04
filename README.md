@@ -104,12 +104,12 @@
 
 ## Lua 
 
-- [gbprod/none-ls-ecs.nvim](https://github.com/gbprod/none-ls-ecs.nvim) - Easy Coding Standard PHP formatter plugin for none-ls.nvim
+- [gbprod/none-ls-ecs.nvim](https://github.com/gbprod/none-ls-ecs.nvim) - Easy Coding Standard PHP formatter source for none-ls.nvim
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
-- [gbprod/none-ls-psalm.nvim](https://github.com/gbprod/none-ls-psalm.nvim) - Psalm diagnostics plugin for none-ls.nvim
-- [gbprod/none-ls-shellcheck.nvim](https://github.com/gbprod/none-ls-shellcheck.nvim) - Shellcheck diagnostics and code-actions plugin for none-ls.nvim
-- [gbprod/none-ls-luacheck.nvim](https://github.com/gbprod/none-ls-luacheck.nvim) - Luacheck diagnostics plugin for none-ls.nvim
-- [gbprod/none-ls-php.nvim](https://github.com/gbprod/none-ls-php.nvim) - Native PHP diagnostics plugin for none-ls.nvim
+- [gbprod/none-ls-psalm.nvim](https://github.com/gbprod/none-ls-psalm.nvim) - Psalm diagnostics source for none-ls.nvim
+- [gbprod/none-ls-shellcheck.nvim](https://github.com/gbprod/none-ls-shellcheck.nvim) - Shellcheck diagnostics and code-actions sources for none-ls.nvim
+- [gbprod/none-ls-luacheck.nvim](https://github.com/gbprod/none-ls-luacheck.nvim) - Luacheck diagnostics source for none-ls.nvim
+- [gbprod/none-ls-php.nvim](https://github.com/gbprod/none-ls-php.nvim) - Native PHP diagnostics source for none-ls.nvim
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) - 💫  Extensible UI for Neovim notifications and LSP progress messages.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
