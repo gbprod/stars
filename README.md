@@ -104,6 +104,7 @@
 
 ## Lua 
 
+- [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) - Add search abilities
 - [gbprod/none-ls-ecs.nvim](https://github.com/gbprod/none-ls-ecs.nvim) - Easy Coding Standard PHP formatter source for none-ls.nvim
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
 - [gbprod/none-ls-psalm.nvim](https://github.com/gbprod/none-ls-psalm.nvim) - Psalm diagnostics source for none-ls.nvim
