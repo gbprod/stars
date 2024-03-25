@@ -38,7 +38,7 @@
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [alemuller/tree-sitter-make](https://github.com/alemuller/tree-sitter-make) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [lua/lua](https://github.com/lua/lua) - The Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests. Report issues in the Lua mailing list https://www.lua.org/lua-l.html
+- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [php/php-src](https://github.com/php/php-src) - The PHP Interpreter
@@ -86,6 +86,7 @@
 
 ## JavaScript 
 
+- [conventional-commits/parser](https://github.com/conventional-commits/parser) - reference implementation of conventionalcommits.org spec
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
@@ -104,6 +105,7 @@
 
 ## Lua 
 
+- [nvimtools/none-ls-extras.nvim](https://github.com/nvimtools/none-ls-extras.nvim) - Extra sources for none-ls.nvim. Not extensively tested, may be prone to break.
 - [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) - Add search abilities
 - [gbprod/none-ls-ecs.nvim](https://github.com/gbprod/none-ls-ecs.nvim) - Easy Coding Standard PHP formatter source for none-ls.nvim
 - [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations
