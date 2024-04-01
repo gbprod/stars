@@ -256,6 +256,7 @@
 
 ## Rust 
 
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -280,7 +281,7 @@
 - [nickclyde/rofi-bluetooth](https://github.com/nickclyde/rofi-bluetooth) - 🔷 A script that generates a rofi menu that uses bluetoothctl to connect to bluetooth devices and display status info.
 - [PatrickF1/fzf.fish](https://github.com/PatrickF1/fzf.fish) - 🔍🐟 Fzf plugin for Fish
 - [ivakyb/fish_ssh_agent](https://github.com/ivakyb/fish_ssh_agent) - Fish-function `fish_ssh_agent` to start `ssh-agent` and export its environment variables to all fish instances: currently running and newly created.
-- [jhillyerd/plugin-git](https://github.com/jhillyerd/plugin-git) - Git plugin for the Fish shell (similar to oh-my-zsh git)
+- [jhillyerd/plugin-git](https://github.com/jhillyerd/plugin-git) - Git aliases plugin for the Fish shell (similar to oh-my-zsh git)
 - [pure-fish/pure](https://github.com/pure-fish/pure) - Pretty, minimal, and fast prompt for Fish shell inspired by sindresorhus/pure
 - [gazorby/fish-exa](https://github.com/gazorby/fish-exa) - :fish: exa aliases for fish
 - [brgmnn/fish-docker-compose](https://github.com/brgmnn/fish-docker-compose) - Fish shell completions for docker-compose
