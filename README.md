@@ -8,7 +8,6 @@
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
-- [Clojure](#clojure)
 - [Fennel](#fennel)
 - [Go](#go)
 - [HTML](#html)
@@ -56,10 +55,6 @@
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) - Write documentation in pandoc markdown. Generate documentation in vimdoc.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [EliverLara/Nordic](https://github.com/EliverLara/Nordic) - :snowflake: Dark Gtk3.20+ theme created using the awesome Nord color pallete.
-
-## Clojure 
-
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## Fennel 
 
@@ -241,7 +236,6 @@
 
 ## Python 
 
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
