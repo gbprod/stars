@@ -100,6 +100,7 @@
 
 ## Lua 
 
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding
 - [nvimtools/none-ls-extras.nvim](https://github.com/nvimtools/none-ls-extras.nvim) - Extra sources for none-ls.nvim. Not extensively tested, may be prone to break.
 - [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) - Add search abilities
 - [gbprod/none-ls-ecs.nvim](https://github.com/gbprod/none-ls-ecs.nvim) - Easy Coding Standard PHP formatter source for none-ls.nvim
