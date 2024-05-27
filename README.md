@@ -220,7 +220,6 @@
 - [Adyen/adyen-php-api-library](https://github.com/Adyen/adyen-php-api-library) - Adyen API Library for PHP
 - [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 6
 - [twigphp/Twig](https://github.com/twigphp/Twig) - Twig, the flexible, fast, and secure template language for PHP
-- [gbprod/php-enhanced-treesitter.nvim](https://github.com/gbprod/php-enhanced-treesitter.nvim) - Improve default php treesitter grammar using grammar injections
 - [zenstruck/browser](https://github.com/zenstruck/browser) - A fluent interface for your Symfony functional tests.
 - [PHP-DI/PHP-DI](https://github.com/PHP-DI/PHP-DI) - The dependency injection container for humans
 - [PHP-CS-Fixer/PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues
@@ -267,6 +266,7 @@
 
 ## Scheme 
 
+- [gbprod/php-enhanced-treesitter.nvim](https://github.com/gbprod/php-enhanced-treesitter.nvim) - Improve default php treesitter grammar using grammar injections
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - 
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) - Location and syntax aware text objects which *do what you mean*
