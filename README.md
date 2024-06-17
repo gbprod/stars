@@ -29,13 +29,13 @@
 
 ## C 
 
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
 - [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentat
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [tree-sitter-grammars/tree-sitter-markdown](https://github.com/tree-sitter-grammars/tree-sitter-markdown) - Markdown grammar for tree-sitter
-- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [alemuller/tree-sitter-make](https://github.com/alemuller/tree-sitter-make) - 
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list h
@@ -68,6 +68,7 @@
 
 ## HTML 
 
+- [manjaro-sway/manjaro-sway](https://github.com/manjaro-sway/manjaro-sway) - manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [gbprod/gbprod.github.io](https://github.com/gbprod/gbprod.github.io) - http://gb-prod.fr
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
 - [sebastianbergmann/phpunit-documentation](https://github.com/sebastianbergmann/phpunit-documentation) - Documentation for PHPUnit.
@@ -88,6 +89,7 @@
 - [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
 - [claytonrcarter/tree-sitter-phpdoc](https://github.com/claytonrcarter/tree-sitter-phpdoc) - PHPDoc grammar for tree-sitter
 - [serenadeai/tree-sitter-scss](https://github.com/serenadeai/tree-sitter-scss) - SCSS grammar for tree-sitter
+- [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
 - [tree-sitter-grammars/tree-sitter-query](https://github.com/tree-sitter-grammars/tree-sitter-query) - TS query grammar for tree-sitter
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
 - [DerekStride/tree-sitter-sql](https://github.com/DerekStride/tree-sitter-sql) - SQL grammar for tree-sitter
