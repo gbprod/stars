@@ -88,7 +88,6 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
-- [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
 - [claytonrcarter/tree-sitter-phpdoc](https://github.com/claytonrcarter/tree-sitter-phpdoc) - PHPDoc grammar for tree-sitter
 - [serenadeai/tree-sitter-scss](https://github.com/serenadeai/tree-sitter-scss) - SCSS grammar for tree-sitter
 - [gbprod/tree-sitter-twig](https://github.com/gbprod/tree-sitter-twig) - Twig grammar for Tree-sitter
@@ -212,6 +211,7 @@
 ## Makefile 
 
 - [cytopia/docker-php-cs-fixer](https://github.com/cytopia/docker-php-cs-fixer) - Alpine-based multistage-build version of php-cs-fixer for reproducible usage in CI
+- [the-mikedavis/tree-sitter-git-rebase](https://github.com/the-mikedavis/tree-sitter-git-rebase) - A tree-sitter grammar for git's interactive rebase file
 
 ## Others 
 
