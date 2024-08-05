@@ -69,6 +69,7 @@
 
 ## HTML 
 
+- [gianklug/wearewaylandnow](https://github.com/gianklug/wearewaylandnow) - Sources for https://wearewaylandnow.com
 - [manjaro-sway/manjaro-sway](https://github.com/manjaro-sway/manjaro-sway) - manjaro linux with wayland 🖼, sway 🌴 and a lot of ♥
 - [gbprod/gbprod.github.io](https://github.com/gbprod/gbprod.github.io) - http://gb-prod.fr
 - [TiagoDanin/Awesome-Polybar](https://github.com/TiagoDanin/Awesome-Polybar) - Curated list of Polybar
